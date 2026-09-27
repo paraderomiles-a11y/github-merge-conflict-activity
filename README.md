@@ -2,4 +2,4 @@
 
 This file will be used to demonstrate a GitHub merge conflict.
 
-Original content
+This file is used to practice Git merging.
